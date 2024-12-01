@@ -1,6 +1,6 @@
 # practice-w-py
-Interview Practice with Python Problems
-
+**Interview Practice with Python Problems
+**
 
 The first lab provides a solution for ‘Capturing Rain Water’. This solution uses a forward then backward traversal of an array to see how water would fill a space based on relative left and right max heights.
 
